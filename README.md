@@ -65,4 +65,4 @@ Following the usage steps above, `your-app.js` will have access to the following
 * see [doc/](https://github.com/playproject-io/datashell/tree/main/doc)
 
 ### Cross-Module Communication
-* See [`net-readme`](https://github.com/playproject-io/datashell/tree/main/lib/node_modules/net/README.md)
+* See [`net-readme`](https://github.com/playproject-io/datashell/tree/main/doc/net.md)
