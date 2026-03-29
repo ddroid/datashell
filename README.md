@@ -63,6 +63,3 @@ this.open ? document.body.append(Object.assign(document.createElement('script'),
 Following the usage steps above, `your-app.js` will have access to the following api:
 ##### `const STATE = require('STATE')`
 * see [doc/](https://github.com/playproject-io/datashell/tree/main/doc)
-
-### Cross-Module Communication
-* See [`net-readme`](https://github.com/playproject-io/datashell/tree/main/doc/net.md)
